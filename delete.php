@@ -38,6 +38,8 @@ $e_st = file("suhu_tubuh/$get_filename");
   <title>File Handling</title>
   <link href="bootstrap.min.css" 
         rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+   <link rel="icon" type="image/x-icon" href="home.png">
 </head>
 <body>
 <div class="container-fluid mt-4">
@@ -112,7 +114,14 @@ $e_st = file("suhu_tubuh/$get_filename");
    </div>
 
   </div>
- 
+  <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+    <div class="col-md-4 d-flex align-items-center">
+      <span class="text-muted">
+      <script>document.write(new Date().getFullYear())</script> © Programming Maklon</h6>
+      </span>
+    </div>
+  </footer>
+  
 </div>
 
 <script src="bootstrap.bundle.min.js" 
