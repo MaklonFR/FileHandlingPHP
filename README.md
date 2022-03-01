@@ -7,15 +7,15 @@ fclose()
 fwrite()
 
 Tampilan Project:
-1. Halaman Home
+**1. Halaman Home**
 
 ![image](https://user-images.githubusercontent.com/88584119/156193743-1e701c6e-f584-4c44-87dc-7e7fb7e12953.png)
 
-2. Halaman Edit
+**2. Halaman Edit**
 
 ![image](https://user-images.githubusercontent.com/88584119/156193919-24f5223f-aaa7-4857-b186-a8c85417b806.png)
 
-3. Halaman Delete
+**3. Halaman Delete**
 
 ![image](https://user-images.githubusercontent.com/88584119/156194010-eb58eaf6-7a7b-4054-ab3f-03d66e14e3b6.png)
 
